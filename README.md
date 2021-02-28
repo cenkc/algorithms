@@ -1,4 +1,4 @@
-# Algorithms (LeetCode, HackerRank & Codility studies & solutions)
+# Algorithms (LeetCode, [HackerRank](https://github.com/cenkc/algorithms#hackerrank) & [Codility](https://github.com/cenkc/algorithms#codility) studies & solutions)
 
 ## HackerRank
 #### Data Structures / Arrays

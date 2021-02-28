@@ -3,12 +3,10 @@ package datastructures.arrays;
 import org.junit.Assert;
 
 /**
- * Minimum Absolute Difference in an Array
+ * 2D Array - DS
  * https://www.hackerrank.com/challenges/2d-array/problem
  * Difficulty : Easy
  * Related Topics : Arrays
- *
- * https://www.hackerrank.com/domains/data-structures/arrays
  *
  * created by Cenk Canarslan on 2021-01-10
  */

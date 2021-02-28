@@ -6,12 +6,10 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Minimum Absolute Difference in an Array
- * https://www.hackerrank.com/challenges/2d-array/problem
+ * Sales by Match
+ * https://www.hackerrank.com/challenges/sock-merchant/problem
  * Difficulty : Easy
  * Related Topics : Arrays
- *
- * https://www.hackerrank.com/domains/algorithms/implementation
  *
  * created by Cenk Canarslan on 2021-02-27
  */

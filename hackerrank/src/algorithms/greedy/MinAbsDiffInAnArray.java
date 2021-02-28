@@ -10,8 +10,6 @@ import java.util.Arrays;
  * Difficulty : Easy
  * Related Topics : Greedy Algorithms
  *
- * https://www.hackerrank.com/domains/algorithms/greedy
- *
  * created by Cenk Canarslan on 2021-01-10
  */
 public class MinAbsDiffInAnArray {

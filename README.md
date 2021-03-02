@@ -1,5 +1,9 @@
 | PROBLEM DESCR. | SOLUTION | DIFFICULTY | RELATED TOPICS |
 |---:|---|---|---|
+| [*HackerRank*](https://www.hackerrank.com/challenges/2d-array/problem) | [2D Array - DS](https://github.com/cenkc/algorithms/blob/main/hackerrank/src/datastructures/arrays/TwoDArrayDS.java) | *Easy* | [*Array*](https://www.hackerrank.com/domains/data-structures/arrays) |
+| [*HackerRank*](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Sales by Match](https://github.com/cenkc/algorithms/blob/main/hackerrank/src/algorithms/implementation/SalesByMatch.java) | *Easy* | [*Array*](https://www.hackerrank.com/domains/data-structures/arrays) |
+| [*HackerRank*](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) | [Minimum Absolute Difference in an Array](https://github.com/cenkc/algorithms/blob/main/hackerrank/src/algorithms/greedy/MinAbsDiffInAnArray.java) | *Easy* | [*Greedy*](https://www.hackerrank.com/domains/algorithms/greedy) |
+
 | [*LeetCode*](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [**102. Binary Tree Level Order Traversal**](https://github.com/cenkc/leetcode-studies/blob/master/src/main/java/com/cenkc/leetcode/study/all/BinaryTreeLevelOrderTraversal.java) | *Medium* | [*Tree*](https://leetcode.com/tag/tree/), [*Breadth-first Search*](https://leetcode.com/tag/breadth-first-search/) |
 
 # Algorithms ([LeetCode](https://github.com/cenkc/algorithms/edit/main/test.md), [HackerRank](https://github.com/cenkc/algorithms#hackerrank) & [Codility](https://github.com/cenkc/algorithms#codility) studies & solutions)

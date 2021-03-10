@@ -1,4 +1,4 @@
-package algorithms.greedy;
+package algorithms.sorting;
 
 import org.junit.Assert;
 

@@ -1,4 +1,4 @@
-# Algorithms ([LeetCode](https://github.com/cenkc/algorithms#LeetCode), [HackerRank](https://github.com/cenkc/algorithms#hackerrank) & [Codility](https://github.com/cenkc/algorithms#codility) studies & solutions)
+# Algorithms ([LeetCode](https://github.com/cenkc/algorithms#LeetCode), [HackerRank](https://github.com/cenkc/algorithms#hackerrank), [Codility](https://github.com/cenkc/algorithms#codility) & [Miscellaneous](https://github.com/cenkc/algorithms#miscellaneous) studies & solutions)
 
 ## LeetCode
 | PROBLEM DESCR. | SOLUTION | DIFFICULTY | RELATED TOPICS | ADDITIONAL INFO |

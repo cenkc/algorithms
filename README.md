@@ -1,5 +1,21 @@
 # Algorithms ([LeetCode](https://github.com/cenkc/algorithms#LeetCode), [HackerRank](https://github.com/cenkc/algorithms#hackerrank), [Codility](https://github.com/cenkc/algorithms#codility) & [Miscellaneous](https://github.com/cenkc/algorithms#miscellaneous) studies & solutions)
 
+| Problem Tags  |
+|---|
+|[Binary Search](https://github.com/cenkc/algorithms/wiki/Binary-Search)   |
+|[Breadth First Search (BFS)](https://github.com/cenkc/algorithms/wiki/Breadth-First-Search-(BFS)) _(Both BSTs and Graphs)_   |
+|[Depth First Search (DFS)](https://github.com/cenkc/algorithms/wiki/Depth-First-Search-(DFS)) _(Both BSTs and Graphs)_   |
+|[Divide and Conquer](https://github.com/cenkc/algorithms/wiki/Divide-and-Conquer)   |
+|[Dynamic Programming](https://github.com/cenkc/algorithms/wiki/Dynamic-Programming)   |
+|[Graph](https://github.com/cenkc/algorithms/wiki/Graph)   |
+|[Greedy](https://github.com/cenkc/algorithms/wiki/Greedy)   |
+|[Sliding Window](https://github.com/cenkc/algorithms/wiki/Sliding-Window)   |
+|[Tree](https://github.com/cenkc/algorithms/wiki/Tree)   |
+
+| _[Common Pitfalls & Notes](https://github.com/cenkc/algorithms/wiki/Notes)_  |
+|---|
+|_[Integer.MAX_VALUE and Integer.MIN_VALUE usages](https://github.com/cenkc/algorithms/wiki/Notes#integermax_value-and-integermin_value-usages)_   |
+
 ## LeetCode
 | PROBLEM DESCR. | SOLUTION | DIFFICULTY | RELATED TOPICS | ADDITIONAL INFO |
 |---:|:---|:---|:---|:---|

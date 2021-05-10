@@ -9,6 +9,7 @@
 |[Dynamic Programming](https://github.com/cenkc/algorithms/wiki/Dynamic-Programming)   |
 |[Graph](https://github.com/cenkc/algorithms/wiki/Graph)   |
 |[Greedy](https://github.com/cenkc/algorithms/wiki/Greedy)   |
+|[Linked List](https://leetcode.com/tag/linked-list/)   |
 |[Sliding Window](https://github.com/cenkc/algorithms/wiki/Sliding-Window)   |
 |[Sorting](https://github.com/cenkc/algorithms/wiki/Sorting)  |
 |[Tree](https://github.com/cenkc/algorithms/wiki/Tree)   |
@@ -39,6 +40,7 @@
 | [*LeetCode*](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [145. Binary Tree Postorder Traversal](https://github.com/cenkc/algorithms/blob/main/leetcode/src/algorithms/BinaryTreePostorderTraversal.java) | :red_circle:*Hard* | [*Stack*](https://leetcode.com/tag/stack/), [*Tree*](https://leetcode.com/tag/tree/) | Problem Set / Algorithms |
 | [*LeetCode*](https://leetcode.com/problems/number-of-islands/) | [200. Number of Islands](https://github.com/cenkc/algorithms/blob/main/leetcode/src/algorithms/NumberOfIslands.java) | :orange_circle:*Medium* | [*Depth-first Search*](https://leetcode.com/tag/depth-first-search/), [*Breadth-first Search*](https://leetcode.com/tag/breadth-first-search/), [*Union Find*](https://leetcode.com/tag/union-find/) | Problem Set / Algorithms |
 | [*LeetCode*](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [230. Kth Smallest Element in a BST](https://github.com/cenkc/algorithms/blob/main/leetcode/src/algorithms/KthSmallestElementInABST.java) | :orange_circle:*Medium* | [*Binary Search*](https://leetcode.com/tag/binary-search/), [*Tree*](https://leetcode.com/tag/tree/) | Problem Set / Algorithms |
+| [*LeetCode*](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [237. Delete Node in a Linked List](https://github.com/cenkc/algorithms/blob/main/leetcode/src/algorithms/DeleteNodeInALinkedList.java) | :orange_circle:*Medium* | [*Binary Search*](https://leetcode.com/tag/binary-search/), [*Linked List*](https://leetcode.com/tag/linked-list/) | Problem Set / Algorithms |
 | [*LeetCode*](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [501. Find Mode in Binary Search Tree](https://github.com/cenkc/algorithms/blob/main/leetcode/src/algorithms/FindModeInBinarySearchTree.java) | :green_circle:*Easy* | [*Tree*](https://leetcode.com/tag/tree/) | Problem Set / Algorithms |
 | [*LeetCode*](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [559. Maximum Depth of N-ary Tree](https://github.com/cenkc/algorithms/blob/main/leetcode/src/algorithms/MaximumDepthOfNaryTree.java) | :green_circle:*Easy* | [*Depth-first Search*](https://leetcode.com/tag/depth-first-search/), [*Breadth-first Search*](https://leetcode.com/tag/breadth-first-search/) | Problem Set / Algorithms |
 | [*LeetCode*](https://leetcode.com/problems/cut-off-trees-for-golf-event/) | [675. Cut Off Trees for Golf Event](https://github.com/cenkc/algorithms/blob/main/leetcode/src/algorithms/CutOffTreesForGolfEvent.java) | :red_circle:*Hard* | [*Breadth-first Search*](https://leetcode.com/tag/breadth-first-search/) | Problem Set / Algorithms |

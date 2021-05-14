@@ -1,3 +1,4 @@
+![ViewCount](https://views.whatilearened.today/views/github/cenkc/algorithms.svg)
 # Algorithms ([LeetCode](https://github.com/cenkc/algorithms#LeetCode), [HackerRank](https://github.com/cenkc/algorithms#hackerrank), [Codility](https://github.com/cenkc/algorithms#codility) & [Miscellaneous](https://github.com/cenkc/algorithms#miscellaneous) studies & solutions)
 
 | Problem Tags  |

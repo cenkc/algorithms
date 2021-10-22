@@ -10,6 +10,7 @@
 |[Dynamic Programming](https://github.com/cenkc/algorithms/wiki/Dynamic-Programming)   |
 |[Graph](https://github.com/cenkc/algorithms/wiki/Graph)   |
 |[Greedy](https://github.com/cenkc/algorithms/wiki/Greedy)   |
+|[Interactive](https://github.com/cenkc/algorithms/wiki/Interactive)   |
 |[Linked List](https://github.com/cenkc/algorithms/wiki/Linked-List)   |
 |[Sliding Window](https://github.com/cenkc/algorithms/wiki/Sliding-Window)   |
 |[Sorting](https://github.com/cenkc/algorithms/wiki/Sorting)  |

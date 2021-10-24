@@ -1,5 +1,5 @@
 ![ViewCount](https://views.whatilearened.today/views/github/cenkc/algorithms.svg)
-# Algorithms ([LeetCode](https://github.com/cenkc/algorithms#LeetCode), [HackerRank](https://github.com/cenkc/algorithms#hackerrank), [Codility](https://github.com/cenkc/algorithms#codility) & [Miscellaneous](https://github.com/cenkc/algorithms#miscellaneous) studies & solutions)
+# Algorithms ([LeetCode](https://github.com/cenkc/algorithms#LeetCode), [HackerRank](https://github.com/cenkc/algorithms#hackerrank), [Codility](https://github.com/cenkc/algorithms#codility), [CTCI - Cracking The Coding Interview](https://github.com/cenkc/algorithms) & [Miscellaneous](https://github.com/cenkc/algorithms#miscellaneous) studies & solutions)
 
 | Problem Tags  |
 |---|
@@ -20,7 +20,7 @@
 |---|
 |_[Integer.MAX_VALUE and Integer.MIN_VALUE usages](https://github.com/cenkc/algorithms/wiki/Notes#integermax_value-and-integermin_value-usages)_   |
 
-## LeetCode
+## [LeetCode](https://leetcode.com/)
 | PROBLEM DESCR. | SOLUTION | DIFFICULTY | RELATED TOPICS | ADDITIONAL INFO |
 |---:|:---|:---|:---|:---|
 | [*LeetCode*](https://leetcode.com/problems/two-sum/) | [1. Two Sum](https://github.com/cenkc/algorithms/blob/main/leetcode/src/algorithms/TwoSum.java) | :green_circle:*Easy* | [*Array*](https://leetcode.com/tag/array/), [*Hash Table*](https://leetcode.com/tag/hash-table/) | Problem Set / Algorithms |
@@ -62,7 +62,7 @@
 | [*LeetCode*](https://leetcode.com/discuss/interview-question/347457) | [TreasureIsland](https://github.com/cenkc/algorithms/blob/main/leetcode/src/interviewquestions/amazon/TreasureIsland.java) |  | [*Depth-first Search*](https://leetcode.com/tag/depth-first-search/), [*Breadth-first Search*](https://leetcode.com/tag/breadth-first-search/) | Interview Question / Amazon |
 | [*LeetCode*](https://leetcode.com/discuss/interview-question/347457) | [TreasureIslandCenk](https://github.com/cenkc/algorithms/blob/main/leetcode/src/interviewquestions/amazon/TreasureIslandCenk.java) |  | [*Depth-first Search*](https://leetcode.com/tag/depth-first-search/), [*Breadth-first Search*](https://leetcode.com/tag/breadth-first-search/) | Interview Question / Amazon |
 
-## Codility
+## [Codility](https://www.codility.com/)
 | PROBLEM DESCR. | SOLUTION | DIFFICULTY | RELATED TOPICS | ADDITIONAL INFO |
 |---:|:---|:---|:---|:---|
 | [*Codility*](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) | [Binary Gap](https://github.com/cenkc/algorithms/blob/main/codility/src/lessons/iterations/BinaryGap.java) | :green_circle:*Easy* | [*Iterations*](https://app.codility.com/programmers/lessons/1-iterations/) | Lessons / 1 - Iterations |
@@ -75,12 +75,17 @@
 | [*Codility*](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/) | [Fish](https://github.com/cenkc/algorithms/blob/main/codility/src/lessons/stacksandqueues/Fish.java) | :green_circle:*Easy* | [*Stacks and Queues*](https://app.codility.com/programmers/lessons/7-stacks_and_queues/) | Lessons / 7 - Stacks and Queues |
 | [*Codility*](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/) | [Nesting](https://github.com/cenkc/algorithms/blob/main/codility/src/lessons/stacksandqueues/Nesting.java) | :green_circle:*Easy* | [*Stacks and Queues*](https://app.codility.com/programmers/lessons/7-stacks_and_queues/) | Lessons / 7 - Stacks and Queues |
 
-## HackerRank
+## [HackerRank](https://www.hackerrank.com/)
 | PROBLEM DESCR. | SOLUTION | DIFFICULTY | RELATED TOPICS | ADDITIONAL INFO |
 |---:|:---|:---|:---|:---|
 | [*HackerRank*](https://www.hackerrank.com/challenges/2d-array/problem) | [2D Array - DS](https://github.com/cenkc/algorithms/blob/main/hackerrank/src/datastructures/arrays/TwoDArrayDS.java) | :green_circle:*Easy* | [*Array*](https://www.hackerrank.com/domains/data-structures/arrays) | Data Structures / Arrays |
 | [*HackerRank*](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Sales by Match](https://github.com/cenkc/algorithms/blob/main/hackerrank/src/algorithms/implementation/SalesByMatch.java) | :green_circle:*Easy* | [*Array*](https://www.hackerrank.com/domains/data-structures/arrays) | Algorithms / Implementation |
 | [*HackerRank*](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) | [Minimum Absolute Difference in an Array](https://github.com/cenkc/algorithms/blob/main/hackerrank/src/algorithms/greedy/MinAbsDiffInAnArray.java) | :green_circle:*Easy* | [*Greedy*](https://www.hackerrank.com/domains/algorithms/greedy) | Algorithms / Greedy |
+
+## [CTCI - Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+| PROBLEM DESCR. | SOLUTION | DIFFICULTY | RELATED TOPICS | ADDITIONAL INFO |
+|---:|:---|:---|:---|:---|
+| [*CTCI*](https://github.com/careercup/CtCI-6th-Edition/tree/master/Java/Ch%2001.%20Arrays%20and%20Strings/Q1_01_Is_Unique) | [C1Q1 - IsUniqueChars](https://github.com/cenkc/algorithms/blob/main/ctci/src/arraysandstrings/HasAllUniqueChars.java) | :green_circle:*Easy* | [*Arrays and Strings*](https://github.com/careercup/CtCI-6th-Edition/tree/master/Java/Ch%2001.%20Arrays%20and%20Strings) | Data Structures / Arrays |
 
 ## Miscellaneous
 | PROBLEM DESCR. | SOLUTION | DIFFICULTY | RELATED TOPICS | ADDITIONAL INFO |

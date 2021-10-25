@@ -1,6 +1,5 @@
 package arraysandstrings;
 
-import org.junit.Assert;
 import org.junit.Test;
 
 import static org.junit.Assert.assertFalse;
@@ -11,9 +10,6 @@ import static org.junit.Assert.assertTrue;
  * https://github.com/careercup/CtCI-6th-Edition/tree/master/Java/Ch%2001.%20Arrays%20and%20Strings/Q1_01_Is_Unique
  * Difficulty : Easy
  * Related Topics : Array, String
- *
- * Implement an algorithm to determine if a string has all unique characters. What if you
- * can not use additional data structures?
  *
  * created by Cenk Canarslan on 2021-10-24
  */

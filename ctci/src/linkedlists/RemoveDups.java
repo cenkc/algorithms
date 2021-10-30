@@ -6,7 +6,7 @@ import java.util.HashSet;
  * ZeroMatrix
  * https://github.com/careercup/CtCI-6th-Edition/tree/master/Java/Ch%2002.%20Linked%20Lists/Q2_01_Remove_Dups
  * Difficulty : Easy
- * Related Topics : Array, String
+ * Related Topics : Linked List
  *
  * created by Cenk Canarslan on 2021-10-26
  */
@@ -62,9 +62,6 @@ public class RemoveDups {
     private static class ListNode {
         int val;
         ListNode next;
-
-        ListNode() {
-        }
 
         ListNode(int val) {
             this.val = val;

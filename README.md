@@ -1,5 +1,5 @@
 ![ViewCount](https://views.whatilearened.today/views/github/cenkc/algorithms.svg)
-# Algorithms ([LeetCode](https://github.com/cenkc/algorithms#LeetCode), [HackerRank](https://github.com/cenkc/algorithms#hackerrank), [Codility](https://github.com/cenkc/algorithms#codility), [CTCI - Cracking The Coding Interview](https://github.com/cenkc/algorithms) & [Miscellaneous](https://github.com/cenkc/algorithms#miscellaneous) studies & solutions)
+# Algorithms ([LeetCode](https://github.com/cenkc/algorithms#LeetCode), [HackerRank](https://github.com/cenkc/algorithms#hackerrank), [Codility](https://github.com/cenkc/algorithms#codility), [CTCI - Cracking The Coding Interview](https://github.com/cenkc/algorithms#ctci---cracking-the-coding-interview) & [Miscellaneous](https://github.com/cenkc/algorithms#miscellaneous) studies & solutions)
 
 | Problem Tags  |
 |---|

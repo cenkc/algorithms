@@ -15,6 +15,7 @@
 |[Sliding Window](https://github.com/cenkc/algorithms/wiki/Sliding-Window)   |
 |[Sorting](https://github.com/cenkc/algorithms/wiki/Sorting)  |
 |[Tree](https://github.com/cenkc/algorithms/wiki/Tree)   |
+|[Trie](https://github.com/cenkc/algorithms/wiki/Trie)   |
 
 | _[Common Pitfalls & Notes](https://github.com/cenkc/algorithms/wiki/Notes)_  |
 |---|
@@ -48,6 +49,7 @@
 | [*LeetCode*](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [145. Binary Tree Postorder Traversal](https://github.com/cenkc/algorithms/blob/main/leetcode/src/algorithms/BinaryTreePostorderTraversal.java) | :red_circle:*Hard* | [*Stack*](https://leetcode.com/tag/stack/), [*Tree*](https://leetcode.com/tag/tree/) | Problem Set / Algorithms |
 | [*LeetCode*](https://leetcode.com/problems/number-of-islands/) | [200. Number of Islands](https://github.com/cenkc/algorithms/blob/main/leetcode/src/algorithms/NumberOfIslands.java) | :orange_circle:*Medium* | [*Depth-first Search*](https://leetcode.com/tag/depth-first-search/), [*Breadth-first Search*](https://leetcode.com/tag/breadth-first-search/), [*Union Find*](https://leetcode.com/tag/union-find/) | Problem Set / Algorithms |
 | [*LeetCode*](https://leetcode.com/problems/reverse-linked-list/) | [206. Reverse Linked List](https://github.com/cenkc/algorithms/blob/main/leetcode/src/algorithms/ReverseLinkedList.java) | :green_circle:*Easy* | [*Linked List*](https://leetcode.com/tag/linked-list/) | Problem Set / Algorithms |
+| [*LeetCode*](https://leetcode.com/problems/implement-trie-prefix-tree/) | [208. Implement Trie (Prefix Tree)](https://github.com/cenkc/algorithms/blob/main/leetcode/src/algorithms/Trie.java) | :orange_circle:*Medium* | [*Hash Taable* ](https://leetcode.com/tag/hash-table/), [*String* ](https://leetcode.com/tag/string/), [*Design* ](https://leetcode.com/tag/design/), [*Trie* ](https://leetcode.com/tag/trie/) | Problem Set / Algorithms |
 | [*LeetCode*](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [230. Kth Smallest Element in a BST](https://github.com/cenkc/algorithms/blob/main/leetcode/src/algorithms/KthSmallestElementInABST.java) | :orange_circle:*Medium* | [*Binary Search*](https://leetcode.com/tag/binary-search/), [*Tree*](https://leetcode.com/tag/tree/) | Problem Set / Algorithms |
 | [*LeetCode*](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [237. Delete Node in a Linked List](https://github.com/cenkc/algorithms/blob/main/leetcode/src/algorithms/DeleteNodeInALinkedList.java) | :green_circle:*Easy* | [*Linked List*](https://leetcode.com/tag/linked-list/) | Problem Set / Algorithms |
 | [*LeetCode*](https://leetcode.com/problems/first-bad-version/) | [278. First Bad Version](https://github.com/cenkc/algorithms/blob/main/leetcode/src/algorithms/FirstBadVersion.java) | :green_circle:*Easy* | [*Binary Search*](https://leetcode.com/tag/binary-search/), [*Interactive*](https://leetcode.com/tag/interactive/) | Problem Set / Algorithms |

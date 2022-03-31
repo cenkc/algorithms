@@ -11,7 +11,7 @@ public class BubbleSort {
      * Time Complexity :
      * - Worst   : O(n^2), when the array is in reverse order
      * - Average : O(n^2), when the array is already sorted
-     * - Best    : O(n)
+     * - Best    : O(n^2)
      *
      * Space Complexity :
      * O(1)

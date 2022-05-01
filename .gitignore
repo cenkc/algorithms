@@ -30,3 +30,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+.DS_Store
+**/.DS_Store
+misc/src/algorithms/.DS_Store

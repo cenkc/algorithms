@@ -33,6 +33,20 @@ public class BubbleSort {
         }
     }
 
+    private void sort2(int[] arr) {
+        System.out.println("          initial:" + Arrays.toString(arr));
+        for (int i = 0; i < arr.length - 2; i++) {
+            for (int j = 0; j < arr.length - 2 - i; j++) {
+                if (arr[j+1] < arr[j]) {
+                    int tmp = arr[j+1];
+                    arr[j+1] = arr[j];
+                    arr[j] = tmp;
+                }
+                System.out.println("-"+Arrays.toString(arr));
+            }
+        }
+    }
+
     public static void main(String[] args) {
         int[] arr = new int[]{64, 34, 25, 12, 22, 11, 90, 12};
 //        int[] arr = new int[]{7,2,6,1,3};

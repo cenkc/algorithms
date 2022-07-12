@@ -4,6 +4,7 @@
 | Problem Tags  |
 |---|
 |[Binary Search](https://github.com/cenkc/algorithms/wiki/Binary-Search)   |
+|[Binary Tree](https://github.com/cenkc/algorithms/wiki/Binary-Tree)   |
 |[Breadth First Search (BFS)](https://github.com/cenkc/algorithms/wiki/Breadth-First-Search-(BFS)) _(Both BSTs and Graphs)_   |
 |[Depth First Search (DFS)](https://github.com/cenkc/algorithms/wiki/Depth-First-Search-(DFS)) _(Both BSTs and Graphs)_   |
 |[Divide and Conquer](https://github.com/cenkc/algorithms/wiki/Divide-and-Conquer)   |
@@ -12,6 +13,9 @@
 |[Greedy](https://github.com/cenkc/algorithms/wiki/Greedy)   |
 |[Interactive](https://github.com/cenkc/algorithms/wiki/Interactive)   |
 |[Linked List](https://github.com/cenkc/algorithms/wiki/Linked-List)   |
+|[Minimum Spanning Tree - MST](https://github.com/cenkc/algorithms/wiki/Minimum-Spanning-Tree---MST)   |
+|[Notes](https://github.com/cenkc/algorithms/wiki/Notes)   |
+|[Shortest Path](https://github.com/cenkc/algorithms/wiki/Shortest-Path)   |
 |[Sliding Window](https://github.com/cenkc/algorithms/wiki/Sliding-Window)   |
 |[Sorting](https://github.com/cenkc/algorithms/wiki/Sorting)  |
 |[Tree](https://github.com/cenkc/algorithms/wiki/Tree)   |

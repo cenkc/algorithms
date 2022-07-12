@@ -156,6 +156,8 @@ public class Dijkstra {
 
         @Override
         public int compareTo(Node otherNode) {
+            // returns -1 when this.totalWeight < otherNode.getTotalWeight()
+            // returns  1 when this.totalWeight > otherNode.getTotalWeight()
             return Double.compare(this.totalWeight, otherNode.getTotalWeight());
         }
 
